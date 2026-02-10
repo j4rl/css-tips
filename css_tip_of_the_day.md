@@ -41,6 +41,11 @@ Each tip lives in `daily-tips/` and is linked below.
 - [CSS nesting](daily-tips/new-stuff-nesting.md)
 - [Text wrap balance](daily-tips/new-stuff-text-wrap-balance.md)
 
+## Architecture
+- [@layer organization](daily-tips/architecture-layers.md)
+- [Dark/light theme support](daily-tips/architecture-theme-support.md)
+- [Split color and type tokens](daily-tips/architecture-split-tokens.md)
+
 ## Selectors
 - [:has() and :is()](daily-tips/selectors-has-is.md)
 

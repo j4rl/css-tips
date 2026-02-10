@@ -4,6 +4,7 @@ CSS tips and a structured guide from fundamentals to advanced techniques.
 ## Start here
 - New to CSS: see `learning-path.md`
 - Quick wins and patterns: see `tips.md`
+- Daily bite-sized tips: see `css_tip_of_the_day.md`
 - Core reference: start with `basics.md` and `layout.md`
 
 ## Repository map
@@ -18,6 +19,8 @@ CSS tips and a structured guide from fundamentals to advanced techniques.
 - `architecture.md` - naming, layering, and scaling strategies
 - `performance.md` - rendering cost, paints, and optimization
 - `accessibility.md` - focus, motion, and color accessibility
+- `css_tip_of_the_day.md` - linked daily tips organized by topic
+- `daily-tips/` - individual tip files used by `css_tip_of_the_day.md`
 - `resources.md` - references and tools
 - `glossary.md` - core CSS terms
 
