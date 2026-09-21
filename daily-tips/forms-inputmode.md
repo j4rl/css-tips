@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Inputmode
 Hint the best on-screen keyboard for the field.
 

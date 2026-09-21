@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Content visibility
 Skip offscreen rendering for long pages.
 

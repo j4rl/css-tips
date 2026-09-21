@@ -1,3 +1,5 @@
+[← Back to README](README.md)
+
 # Here are some CSS tips of the day
 The purpose of this file is to collect all CSS tips you can ever want on one page.
 Each tip lives in `daily-tips/` and is linked below.

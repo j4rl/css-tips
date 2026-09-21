@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Contrast-safe fallback
 Provide a simple sRGB fallback before `oklch()` for older browsers.
 

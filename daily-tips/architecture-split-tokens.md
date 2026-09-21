@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Split color and type tokens
 Keep color and typography variables in separate files.
 

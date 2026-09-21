@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # :has() and :is()
 Use `:is()` to reduce selector repetition and `:has()` for parent state.
 

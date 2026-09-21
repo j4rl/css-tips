@@ -1,3 +1,5 @@
+[← Back to README](README.md)
+
 # Effects
 Shadows, filters, blends, and masking.
 

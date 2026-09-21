@@ -1,3 +1,5 @@
+[← Back to README](README.md)
+
 # Tips and tricks
 Quick patterns you can reuse.
 

@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # @layer organization
 Use cascade layers to control priority between resets and components.
 

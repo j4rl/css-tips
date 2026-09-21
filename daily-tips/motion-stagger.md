@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Staggered entrances
 Stagger a list with a simple delay calc.
 

@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Checkbox state to style siblings
 Use sibling selectors to toggle styles without JS.
 

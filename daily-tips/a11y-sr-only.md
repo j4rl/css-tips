@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Screen reader only text
 Hide text visually while keeping it accessible.
 

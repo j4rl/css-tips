@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Drop shadow for transparent images
 Use `drop-shadow()` to shadow non-rectangular PNG or SVG.
 

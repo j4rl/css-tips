@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Dark/light theme support
 Use CSS variables and `prefers-color-scheme` for theme-aware tokens.
 

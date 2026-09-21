@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # UL/LI menu
 Use a list for nav and reset the default styles.
 

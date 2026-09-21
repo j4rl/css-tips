@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Frosted glass
 Combine blur and transparency for a glass effect.
 

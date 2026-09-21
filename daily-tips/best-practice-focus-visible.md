@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Focus-visible outlines
 Show focus for keyboard users without noisy mouse focus.
 

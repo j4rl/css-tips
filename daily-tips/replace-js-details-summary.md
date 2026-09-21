@@ -1,3 +1,5 @@
+[← Back to README](../README.md) · [Daily tips index](../css_tip_of_the_day.md)
+
 # Replace JS with details/summary
 Use native disclosure widgets and style them.
 

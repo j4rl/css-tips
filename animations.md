@@ -1,3 +1,5 @@
+[← Back to README](README.md)
+
 # Animations
 Motion that is purposeful and performant.
 
